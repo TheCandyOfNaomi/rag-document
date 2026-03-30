@@ -12,7 +12,7 @@ config/settings.py
 logs/
 
 
-documents/
+documents/migrations/
 media/
 
 
